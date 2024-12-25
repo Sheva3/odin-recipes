@@ -1,0 +1,193 @@
+#index {
+
+    main {
+        min-height: 300px;
+        width: 30%;
+        background: rgb(245, 245, 245, 0.9);
+        margin: 0 auto;
+        border: 2px solid rgb(212, 0, 255);
+        border-radius: 20px 20px 20px 20px;
+        box-shadow: 0px 0px 20px 4px #ca8fec;
+        padding: 15px;   
+    }
+
+
+    .makeyourchoise {
+        text-align: center;
+    }
+
+    #myc {
+        background: rgb(252 61 213 / 31%);
+        border-radius: 20px 20px 20px 20px;
+    }
+
+    #menu {
+        margin: auto;
+        display: block;
+    }
+
+    #bolramen {
+        width: 250px;
+        height: 250px;
+        margin: auto;
+
+    }  
+
+    #sushisaumon {
+        width: 250px;
+        height: 250px;
+        margin: auto;
+
+    }
+
+    #onigirimayo {
+        width: 250px;
+        height: 250px;
+        margin: auto;
+
+    }
+
+    h1 {
+        text-shadow: 3px 3px 8px rgb(0, 0, 0);
+        text-align: center;
+        background: rgba(160, 61, 252, 0.432);
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        width: 780px;
+        height: 40px;
+        margin: auto;
+        
+    }
+
+    ul {
+        text-align: center;
+        color: white;
+        font-size: 1.2rem;
+    }
+}
+
+#ramen {
+
+     background: url(./img/jardin_zen_japonais.jpg) center/cover;
+     min-height: 100vh;
+
+    img {
+        width: 30%;
+        margin: auto;
+        display: block;
+    }
+
+     main {
+        min-height: 500px;
+        width:90%;
+        background: rgba(255, 255, 255, 0.9);
+        /* margin a 0 pour centrer une boite */
+        margin: 0 auto;
+        border: 2px solid rgb(0, 140, 255);
+        border-radius: 20px 20px 0 0;
+        box-shadow: 0px 0px 20px 4px #81cfc6;
+        padding: 15px;   
+    }
+
+    h1 {
+        text-shadow: 3px 3px 8px rgb(0, 0, 0);
+        text-align: center;
+        background: rgba(156, 236, 65, 0.432);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+    }
+
+    h3 {
+        text-align: center;
+        background: rgba(156, 236, 65, 0.432);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 3px;
+    }
+}
+
+
+#onigiri {
+
+    background: url(./img/jardin_zen_japonais.jpg) center/cover;
+    min-height: 100vh;
+
+    img {
+        width: 30%;
+        margin: auto;
+        display: block;
+    }
+
+
+    main {
+       min-height: 500px;
+       width:90%;
+       background: rgba(255, 255, 255, 0.9);
+       /* margin a 0 pour centrer une boite */
+       margin: 0 auto;
+       border: 2px solid rgb(0, 140, 255);
+       border-radius: 20px 20px 0 0;
+       box-shadow: 0px 0px 20px 4px #81cfc6;
+       padding: 15px;   
+   }
+
+   h1 {
+       text-shadow: 3px 3px 8px rgb(0, 0, 0);
+       text-align: center;
+       background: rgba(85, 236, 65, 0.432);
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       letter-spacing: 3px;
+       text-transform: uppercase;
+   }
+
+   h3 {
+       text-align: center;
+       background: rgba(156, 236, 65, 0.432);
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       letter-spacing: 3px;
+   }
+}
+
+#sushi {
+
+        background: url(./img/jardin_zen_japonais.jpg) center/cover;
+        min-height: 100vh;
+
+        img {
+            width: 30%; 
+            margin: auto;
+            display: block;
+        }
+
+
+    main {
+       min-height: 500px;
+       width:90%;
+       background: rgba(255, 255, 255, 0.9);
+       /* margin a 0 pour centrer une boite */
+       margin: 0 auto;
+       border: 2px solid rgb(0, 140, 255);
+       border-radius: 20px 20px 0 0;
+       box-shadow: 0px 0px 20px 4px #81cfc6;
+       padding: 15px;   
+   }
+
+   
+
+   h1 {
+       text-shadow: 3px 3px 8px rgb(0, 0, 0);
+       text-align: center;
+       background: rgba(85, 236, 65, 0.432);
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       letter-spacing: 3px;
+       text-transform: uppercase;
+   }
+
+   h3 {
+       text-align: center;
+       background: rgba(156, 236, 65, 0.432);
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       letter-spacing: 3px;
+   }
+}
